@@ -1,6 +1,6 @@
 {
-    "name": "juan_million_web",
-    "short_name": "juan_million_web",
+    "name": "juan_million",
+    "short_name": "juan_million",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
